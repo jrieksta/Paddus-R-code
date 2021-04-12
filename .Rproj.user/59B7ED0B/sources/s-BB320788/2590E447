@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1618216244507.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "6|27|52|2|\n53|26|66|0|\n67|61|85|0|\n",
+    "hash" : "0",
+    "id" : "2590E447",
+    "lastKnownWriteTime" : 1618216704,
+    "last_content_update" : 1618216704329,
+    "path" : "C:/Users/lcm767/OneDrive - Københavns Universitet/Desktop/Projects/Repositories/Paddus-R-code/12042021_LMM_example.R",
+    "project_path" : "12042021_LMM_example.R",
+    "properties" : {
+        "cursorPosition" : "172,21",
+        "scrollLine" : "117",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
